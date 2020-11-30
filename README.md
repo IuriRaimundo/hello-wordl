@@ -1,2 +1,3 @@
 # hello-wordl
-Just another repository
+Hey i am just learning how to use this platform!.
+
